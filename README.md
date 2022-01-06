@@ -1,1 +1,1 @@
-# car-discount-classifier
+# Car Discount Classifier
